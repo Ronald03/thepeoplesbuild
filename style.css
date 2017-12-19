@@ -1,11 +1,30 @@
+/**{
+	border:1px dashed red;
+	margin:1px 1px 1px 1px;
+}*/
 body{
 	background-color: #00bfff;
 }
 
 .nav-bg{
-	background-color:black;
+	background-color:white;
+}
+.navbar-brand{
+	margin-left: 40px;
 }
 
 .nav-link{
 	color: #00bfff !important;
 }
+
+
+.navbar-toggler{
+	border:1px solid yellow;
+}
+
+/* This change the color of the toggle strokes */
+.navbar-toggler-icon { 
+	background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 191, 255, 0.7)' stroke-width='2' stroke-linecap='square' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important; 
+}
+
+
