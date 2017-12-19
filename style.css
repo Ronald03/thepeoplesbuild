@@ -6,6 +6,8 @@ body{
 	background-color: #00bfff;
 }
 
+/************ NAVBAR ***************************************/
+
 .nav-bg{
 	background-color:white;
 }
@@ -28,3 +30,26 @@ body{
 }
 
 
+/************************VIDEO-CONTAINER *******************************************/
+
+.div-container{
+	height: 400px;
+	margin-top: 8%;	
+	background-color: white;
+}
+.video-1{
+	margin-top: 20px;
+}
+
+.media-body{
+	margin-left: 20px;
+	margin-top: 20px;
+}
+.media-body h4{
+	background-color:rgba(255, 51, 51, 0.8);
+	color: white;
+}
+ p {
+	font-size: 23px;
+	line-height: 1.6;
+}
