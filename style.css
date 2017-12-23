@@ -95,3 +95,28 @@ body{
 	float: right;
 	margin-right: 40px;
 }
+
+/******************Video Page*************************************************/
+
+.video-container{
+	margin-top: 8%;
+	margin-bottom: 4.5%;
+	height: 100%;
+	padding: 20px;
+	background-color: white;
+}
+.header ol{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.header p{
+		font-family: 'Roboto Condensed', sans-serif;
+		font-size: 13px;	
+		font-style: italic;
+}
+
+.kodi-banner img{
+	width: 85%;
+	margin-top: 50px;
+	-webkit-transform: rotateZ(-15deg); /* Safari */
+    transform: rotateZ(-15deg);
+}
