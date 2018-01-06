@@ -130,9 +130,13 @@ body{
 .vid-holder-1{
 	margin-top: 20px;
 }
+
+.video-holder h4{
+	margin-top: 10px;
+}
 .video-holder{
 	margin-top: 20px;
-	padding: 0 0 0 0;
+	padding-bottom: 30px;
 }
 .video-holder iframe{
 	margin-left:10%; 
