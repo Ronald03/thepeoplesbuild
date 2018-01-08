@@ -164,6 +164,7 @@ body{
 	height: 250px;
 }
 
-.yellow{
-	background-color: yellow;
+#submit{
+	color: white;
+	background-color: #1469b2;
 }
